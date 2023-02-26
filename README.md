@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Amadeu Lee
 - 👀 I’m interested in Backend Developing with Java
-- 🌱 I’m currently learning Spring Boot
+- 🌱 I’m currently learning and practicing all about Spring ecosystem
 - 💞️ I’m looking to collaborate on my current company
 - 📫 How to reach me [Linkedin Profile](https://www.linkedin.com/in/amadeu-lee-6153731b4/)
 
